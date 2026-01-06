@@ -73,7 +73,7 @@ with DAG(
         databricks_conn_id="databricks_default",
         existing_cluster_id="1226-111154-b05vqw7v",
         notebook_task={
-            "notebook_path": "/Users/22071a12c2@vnrvjiet.in/stock_analytics_job"
+            "notebook_path": "/Users/22071a12c2@vnrvjiet.in/gold_analytics"
         }
     )
 
